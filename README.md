@@ -12,6 +12,10 @@ binary-classification
 2. 利用逻辑回归进行训练
 3. 分数0.732344
 
+4. 尝试tf-idf 分数 0.76871
+
+
 **TODO:**
-1. 尝试tf-idf
-2. 在本地大概算分数，看下训练集分数
+1. Split training set 
+2. 在本地大概算分数，挑好的提交
+3. 
